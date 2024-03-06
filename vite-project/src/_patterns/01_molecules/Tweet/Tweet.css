@@ -1,0 +1,40 @@
+.tweetsContainer{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    gap: 1em;
+    align-items: flex-start; /*To give tweets normal (non equal) height depending on tweet content*/
+    
+}
+
+.Tweet{
+    flex-grow: 1;
+    flex-basis: 0;
+    background-color: white;
+    padding: 2em 2em 1em;
+    border-radius: 5px;
+    height: auto;
+}
+
+.tweetHeader, .tweetFooter{
+    display: flex;
+    
+}
+.tweetHeader img{
+    margin-right:1em;
+}
+.Tweet h3,.Tweet .tweetUserName p{
+    margin: 0;
+}
+.tweetsContainer p{
+    line-height: 1.5;
+}
+.likesNumber{
+    margin-left: 8px;
+}
+.twitterLogo{
+    margin-left: auto;
+}
+.tweetFooter .tweetDate{
+    margin-left: auto;
+}

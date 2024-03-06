@@ -1,0 +1,44 @@
+.PricePlan{
+    width: 100%;
+    border: 2px solid #ffad23;
+    padding: 2em;
+    border-radius: 5px;
+
+    background-color: #fbf8f3;
+}
+.PricePlan p:first-child{
+    font-size: 20px;
+    margin: 0;
+}
+.PricePlan span{
+    display: inline;
+    font-weight: bolder;
+    font-size: 3em;
+    color: black;
+}
+
+.paragaphCheckMark{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.paragaphCheckMark img{
+    margin-right: 1em;
+}
+.PricePlan button{
+    width: 100%;
+    padding: 10px;
+    margin-top: 8px;
+}
+.PricePlan .priceButton{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1em;
+}
+.PricePlan hr{
+    border:0;
+    border-top: 1px solid #ccc;
+
+    
+}

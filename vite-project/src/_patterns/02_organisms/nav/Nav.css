@@ -1,0 +1,15 @@
+:root {
+    --main-bg-color: #1DA1F2;
+    --background-color: #FBF8F3;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: var(--background-color);
+    padding: 0 15%;
+}
+.nav h1{
+    color: var(--main-bg-color);
+    font-style: italic;
+}

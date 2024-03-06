@@ -1,0 +1,34 @@
+:root {
+    --coloredNumbers-color: #1F7898;
+}
+
+.HeroContent{
+    padding-right: 10%;
+}
+.HeroContent h1{
+    font-size: 72px;
+    color: #000;
+    white-space: pre-line;
+    font-style:normal;
+}
+p{
+    color: grey;
+}
+.coloredNumbers{
+    color: var(--coloredNumbers-color);
+    font-weight: bold;
+}
+
+.usersImg{
+    padding-top: 1em;
+}
+.usersImg img:not(:first-child){
+    margin-left: -1em;
+}
+
+.HeroContent .heroButton{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1em;
+}

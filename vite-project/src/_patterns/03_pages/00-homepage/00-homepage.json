@@ -1,0 +1,94 @@
+{   
+    "logo":"Chirp.",
+    "navUl" : [
+        {"li" : "Home"},
+        {"li" : "Pricing"},
+        {"li" : "FAQ"}
+    ],
+    "buttons":[
+        {"signIn": "Sign in with Twitter"},
+        {"startTrial":"Start Trial with Twitter"}
+        
+    ],
+    "heroTitle": "Twitter analytics\n taken to a whole new level.",
+    "heroParagraph": "Chirp is a suite of Twitter analytics that will help you better understand your audience, which tweets they like, and most importantly, when they are the most active on twitter",
+    "featuresHeading": "Features that help you \n Tweet smarter.",
+    "featuresCards":[
+        {"feature":{
+            "heading": "Analytics",
+            "paragraph": "We constantly monitor your audience as is grows - so you can Tweet when your followers are most likely to be online are ready to engage with your content"
+        }},
+        {"feature":{
+            "heading": "Smart Analyzer",
+            "paragraph": "We constantly monitor your audience as is grows - so you can Tweet when your followers are most likely to be online are ready to engage with your content"
+        }},
+        {"feature":{
+            "heading": "Scheduled Your Tweets",
+            "paragraph": "We constantly monitor your audience as is grows - so you can Tweet when your followers are most likely to be online are ready to engage with your content"
+        }},
+        {"feature":{
+            "heading": "Dark Mode",
+            "paragraph": "We constantly monitor your audience as is grows - so you can Tweet when your followers are most likely to be online are ready to engage with your content"
+        }}
+
+    ],
+    "users": [
+        {"path": "userAvatar01"},
+        {"path": "userAvatar02"},
+        {"path": "userAvatar03"},
+        {"path": "userAvatar04"},
+        {"path": "userAvatar05"},
+        {"path": "userAvatar06"},
+        {"path": "userAvatar07"},
+        {"path": "userAvatar08"},
+        {"path": "userAvatar09"}
+    ],
+    "customersHeading":"What our customers say",
+    "tweets":[
+        {
+            "customerName": "Sara May",
+            "username": "@sara_may",
+            "tweet": "I just tried out @chirp and it's amazing, love all the analytics I can see",
+            "likes": "2",
+            "date": "March 2, 2021",
+            "userImage": "userAvatar01"
+            
+        },
+        {
+            "customerName": "Jack Scott",
+            "username": "@jackscott_",
+            "tweet": "I initially started using Chirp to support the co-founder as I personally knew him, but after having tried it out for a few weeks, I can genuinely say this changed my Twitter game.",
+            "likes": "32",
+            "date": "March 2, 2021",
+            "userImage": "userAvatar04"
+        
+        },
+        {
+            "customerName": "Jessica May",
+            "username": "@jmay98",
+            "tweet": "Absolutely love everything about Chirp, from the design to how everything works smoothly.",
+            "likes": "221",
+            "date": "March 2, 2021",
+            "userImage": "userAvatar02"
+        
+        }
+    ],
+
+    
+    "priceHeading": "One simple price plan.",
+    "priceParagraph": "Start growing your Twitter account by analyzing your follower's patterns.",
+    "pricePlan": "Monthly",
+    "pricePerMonth": "$9",
+    "perMonth": "/mo",
+    "priceFeatures": [
+        {"feature":"Unlimited* scheduled tweets and threads."},
+        {"feature":"Schedule up to 3 weeks in advance."},
+        {"feature":"Real-time audience analytics up to 5k followers"}
+    ],
+    "PriceButton": "Start Trial with Twitter",
+    "footerUl" : [
+        {"li" : "Privacy Policy"},
+        {"li" : "Terms of Use"}
+    ],
+    "heroContentFooterParagraph": "Join <span style='color: #1f7898;font-weight:bold;'>195</span> others who have analyzed their followers and scheduled <span style='color: #1f7898;font-weight:bold;'>1342</span> tweets!"
+}

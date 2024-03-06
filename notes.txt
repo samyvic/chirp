@@ -1,0 +1,22 @@
+nav
+---
+
+
+
+
+hero
+----
+1. import images using map ?
+src={'folderPath' + user.path + '.svg'}
+
+2. how to color numbers after getting the string from json ? using regex ?
+
+
+
+features
+--------
+1. newline does not work ? 
+use white-space: pre-line; to leave whitespaces as in description
+https://developer.mozilla.org/en-US/docs/Web/CSS/white-space
+
+2.

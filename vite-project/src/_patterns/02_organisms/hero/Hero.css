@@ -1,0 +1,17 @@
+.Hero{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 2rem 15%;
+    background-color: var(--background-color);
+}
+.contentImage{
+    width: 40%;
+}
+.contentImage img{
+    margin-left: auto;
+    background-color: cover;
+    width: 100%;
+    background-size: cover;
+    display: block;
+}

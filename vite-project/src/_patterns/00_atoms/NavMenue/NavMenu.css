@@ -1,0 +1,12 @@
+
+ul{
+    display: inline;
+    list-style-type: none;
+    margin:0;
+}
+li{
+    display: inline-block ;
+    margin: 10px 1rem;
+    color: gray
+    
+}

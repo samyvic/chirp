@@ -1,0 +1,12 @@
+:root {
+    --main-learnMore-color: #1F7898;
+}
+
+
+.learnmore{
+    color: var(--main-learnMore-color);
+    background-color: transparent;
+    border: none;
+    font-weight: bold;
+    margin-left: 1em;
+}
